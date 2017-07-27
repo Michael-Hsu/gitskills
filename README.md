@@ -1,2 +1,2 @@
 # gitskills
-Test how to clone an repository from Github to local PC
+Test how to clone a repository from Github to local PC
